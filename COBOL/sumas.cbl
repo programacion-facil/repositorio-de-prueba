@@ -18,7 +18,7 @@
 
               ACCEPT NUM1.
 
-      *Se le pide al usuario el segundo número y se almacena en NUM2.
+      *Se le pide al usuario el segundo número y se almacena en NUM2
 
               DISPLAY "Introduce el segundo número: ".
 
